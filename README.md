@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Johnsb90
-- 👀 I’m interested in CyberSecurity
+- 👀 I’m interested in WebDevelopment
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on WebDevelopment projects
 - 📫 How to reach me: ionuthulpus@gmail.com
